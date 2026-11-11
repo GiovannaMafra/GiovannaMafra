@@ -1,6 +1,6 @@
 # Hi, I'm Giovanna 👋
  
-**Computer Science student at UFPE** (Recife, Brazil), graduating Jun 2028. Looking for internships in AI, data and security.
+**Computer Science student at UFPE** (Recife, Brazil).
  
 [LinkedIn](https://linkedin.com/in/giovanna-marques-mafra) · [Email](mailto:gio.marques.m@gmail.com)
  
